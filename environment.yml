@@ -1,0 +1,25 @@
+name: mthesis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - shap
+  - tqdm
+  - jupyterlab
+  - ipykernel
+  - opencv
+  - shapely
+  - pip:
+      - torch
+      - torchvision
+      - torchaudio
+      - ultralytics

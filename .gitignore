@@ -1,0 +1,13 @@
+data/*
+data/**
+!data/README.md
+setup.txt
+/utils/rename_errors.py
+/4_data_preprocessing/exploration.ipynb
+/5_analysis/5.22_feature_model_selection_3g.ipynb
+/5_analysis/5.42_classifier_copy.ipynb
+
+*.csv
+*.tsv
+*.zip
+*.mp4
