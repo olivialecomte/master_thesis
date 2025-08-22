@@ -51,6 +51,7 @@ Paths are managed in `utils.paths.py`
 
 
 ## 🗂️ Project Structure
+```
 master_thesis/
 ├── 0_object_detection/ # YOLOv8s training and inference scripts
 ├── 1_model_fine-tuning/ # Scripts to clean inference
@@ -61,6 +62,7 @@ master_thesis/
 ├── data/ # (Empty in repo – see Data section below)
 ├── trained_models/ # Trained model weights and performance stats
 └── utils/ # Path config
+```
 
 
 ## 🧠 Features Extracted
