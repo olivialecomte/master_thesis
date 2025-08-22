@@ -264,10 +264,3 @@ if results:
     )
 else:
     print("\n⚠️ No valid data processed.")
-    print("\n⚠️ No valid data processed.")
-    print("\n⚠️ No valid data processed.")
-    print("\n⚠️ No valid data processed.")
-    print("\n⚠️ No valid data processed.")
-    print("\n⚠️ No valid data processed.")
-    print("\n⚠️ No valid data processed.")
-    print("\n⚠️ No valid data processed.")

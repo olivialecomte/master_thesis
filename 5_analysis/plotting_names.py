@@ -23,4 +23,5 @@ plotting_names = {
     "FIC_mean": "Mean FIC",
     "FIC_std": "SD FIC",
     "FFD": "FFD",
+    "blink_ratio": "Blink Ratio",
 }
