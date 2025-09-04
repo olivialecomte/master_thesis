@@ -118,7 +118,7 @@ conda activate your_env_name
 
 ## 📄 Thesis Document
 
-📥 [Download thesis.pdf](./thesis.pdf)
+📥 [Download thesis.pdf](DD_Thesis_final.pdf)
 
 
 ## 📜 License
